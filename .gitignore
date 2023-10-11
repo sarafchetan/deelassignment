@@ -1,0 +1,7 @@
+node_modules
+.vscode
+results
+package-lock.json
+portal/screenshots/
+portal/videos/
+.idea
